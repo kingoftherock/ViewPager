@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rafa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e9006a4bbd49b7320882af9c7a003406b41e6fe8.jar" />
+    </item>
+    <item
+        jar="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/pre-dexed/debug/classes-21baa9f70ebabf06ebf488e26f8bd07158efa3ff.jar" />
+    </item>
+    <item
+        jar="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-a1be9d110fe8674a617fb33b9cd910c22eca610f.jar" />
+    </item>
+    <item
+        jar="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/exploded-aar/fr.baloomba/viewpagerindicator/2.4.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c0f42853ca7567a621142dc9b533b6428b37d73">
+        <dex dex="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/pre-dexed/debug/classes-60cd97cbd3a819b232493c5f37d153bb7f6e10f0.jar" />
+    </item>
+    <item
+        jar="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/rafa/AndroidStudioProjects/Yalku/app/build/intermediates/pre-dexed/debug/classes-9ade87d66817b99dde70c73e7a69ad2af7497cc2.jar" />
+    </item>
+
+</items>
